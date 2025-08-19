@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to right, blueviolet, green);
+  color: white;
+}
+
+button {
+  color: rgb(0, 255, 21);
+  background: linear-gradient(to bottom, yellow, red);
+}
+
+.profile.card {
+  color: rgb(36, 36, 36);
+}
+
+.profile-container {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+img {
+  height: 250px;
+}
+
+p {
+  color: tan;
+}

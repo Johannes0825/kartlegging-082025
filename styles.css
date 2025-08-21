@@ -25,3 +25,16 @@ img {
 p {
   color: tan;
 }
+
+.btn {
+  display: inline-block;
+  padding: 10px 15px;
+  background: linear-gradient(to bottom, yellow, red);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: violet;
+}
